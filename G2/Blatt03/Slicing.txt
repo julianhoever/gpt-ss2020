@@ -1,0 +1,6 @@
+array[x:y:z]
+
+-> x: Startindex (inklusive)
+-> y: Endindex (exklusiv)
+-> z: Schrittweite (positiv/negati)
+

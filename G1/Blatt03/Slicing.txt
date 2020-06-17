@@ -1,0 +1,5 @@
+a[x:y:z]
+
+-> x: Startwert (inklusiv)
+-> y: Endwert (exklusiv)
+-> z: Schrittweite (positiv/negativ)
